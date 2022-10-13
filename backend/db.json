@@ -1,0 +1,79 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Processador AMD Ryzen 7 5800X, 3.8GHz (4.7GHz Max Turbo)",
+      "price": "1800"
+    },
+    {
+      "id": 2,
+      "name": "Placa de Vídeo MSI NVIDIA GeForce RTX 3070 Gaming Z Trio 8G, 8GB GDDR6",
+      "price": "3499"
+    },
+    {
+      "id": 3,
+      "name": "HD Seagate 1TB BarraCuda, 3.5', SATA - ST1000DM010",
+      "price": "239"
+    },
+    {
+      "name": "SSD 240 GB Kingston A400, SATA, Leitura: 500MB/s e Gravação: 350MB/s - SA400S37/240G",
+      "price": "189",
+      "id": 4
+    },
+    {
+      "name": "SSD 480 GB Kingston A400, SATA, Leitura: 500MB/s e Gravação: 450MB/s - SA400S37/480G",
+      "price": "224",
+      "id": 5
+    },
+    {
+      "name": "Mouse Gamer Redragon Cobra, Chroma RGB, 12400DPI, 7 Botões, Preto - M711 V2",
+      "price": "116",
+      "id": 6
+    },
+    {
+      "name": "Mouse Gamer HyperX Pulsefire Core RGB 6200 DPI - HX-MC004B",
+      "price": "99",
+      "id": 7
+    },
+    {
+      "name": "Mouse Gamer Redragon Storm Elite, RGB, 8 Botões, 16000 DPI - M988-RGB",
+      "price": "169",
+      "id": 8
+    },
+    {
+      "name": "Teclado Mecânico Gamer Redragon Kumara, RGB, Switch Outemu Brown, PT - K552RGB-1 (PT-BROWN)",
+      "price": "229",
+      "id": 9
+    },
+    {
+      "name": "Teclado Mecânico Gamer Redragon Dark Avenger K568W, RGB, Switch Outemu MK2 Blue, ABNT2, Branco - K568W-RGB (BLUE)",
+      "price": "199",
+      "id": 10
+    },
+    {
+      "name": "Teclado Mecânico Gamer Redragon Dark Aryaman K569, RGB, Switch Outemu Blue, ABNT2 - K569",
+      "price": "399",
+      "id": 11
+    },
+    {
+      "name": "PC Gamer Fácil Intel Core I7, 16GB, Gtx 1050ti 4GB, SSD 480GB, Fonte 500w, Windows 10, Preto",
+      "price": "3360",
+      "id": 12
+    },
+    {
+      "name": "PC Gamer Concórdia AMD Ryzen 3-3200G, RGB, 8GB DDR4, SSD 240GB, Linux, Preto - 31723",
+      "price": "2119",
+      "id": 13
+    },
+    {
+      "name": "PC Gamer Skill Strong, Intel Core i5-10400, 16GB DDR4, SSD 256GB, Geforce RTX 3050 6GB, 650W 80 Plus - 63213",
+      "price": "7229",
+      "id": 14
+    },
+    {
+      "name": "PC Gamer Acer Predator Orion 5000 Intel Core i7-11700, RGB, NVIDIA GeForce RTX3070, 16GB RAM, SSD 1TB, Windows 11 Home, Preto - DG.E2QAL.006",
+      "price": "13599",
+      "id": 15
+    }
+  ]
+}
